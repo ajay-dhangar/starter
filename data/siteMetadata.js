@@ -14,7 +14,7 @@ const siteMetadata = {
   github: 'https://github.com/Ajay-Dhangar',
   twitter: 'https://twitter.com/AJAYDHA27250016',
   facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com/CodeMastermindHQ',
+  youtube: 'https://www.youtube.com/@Code-Mastermind-HQ',
   linkedin: 'https://www.linkedin.com/in/ajay-dhangar/',
   locale: 'en-US',
   analytics: {
