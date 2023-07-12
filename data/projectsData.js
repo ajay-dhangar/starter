@@ -1,11 +1,11 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'CodeMastermindHQ',
+    description: `CodeMastermindHQ is your ultimate destination for coding mastery. 
+    Discover a wealth of resources, tutorials, and challenges to sharpen your skills and 
+    excel in the world of programming. Unleash your coding potential today!`,
+    imgSrc: '/static/showcase/codemastermindhq.jpg',
+    href: 'https://codemastermindhq.netlify.app/',
   },
   {
     title: 'The Time Machine',
