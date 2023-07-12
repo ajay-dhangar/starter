@@ -1,5 +1,6 @@
 ![tailwind-nextjs-banner](/public/static/images/twitter-card.png)
 
+<!--
 # Tailwind Nextjs Starter Blog
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/timlrx/tailwind-nextjs-starter-blog?style=social)](https://github.com/Ajay-Dhangar/starter/stargazers/)
@@ -261,3 +262,4 @@ Using the template? Support this effort by giving a star on GitHub, sharing your
 ## Licence
 
 [MIT](https://github.com/timlrx/tailwind-nextjs-starter-blog/blob/master/LICENSE) © [Timothy Lin](https://www.timlrx.com)
+-->
